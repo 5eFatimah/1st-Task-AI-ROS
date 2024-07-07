@@ -46,3 +46,16 @@ sudo apt install ros-noetic-desktop-full
 ![](/imgs/1-5.png)
 
 ## Turtlesim
+
+1- Start master node by using 
+```
+rosecore
+```
+2- Open new terminal to install and start the turtlesim
+
+![](/imgs/2-1.png)
+
+3- Run turtlesim
+
+![](/imgs/2-2.png)
+
