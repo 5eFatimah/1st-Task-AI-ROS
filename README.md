@@ -59,3 +59,16 @@ rosecore
 
 ![](/imgs/2-2.png)
 
+4- Get node info
+
+![](/imgs/3-1.png)
+
+5- Move the turtle to a precise position and orientation 
+
+![](/imgs/3-2.png)
+![](/imgs/3-3.png)
+
+6- Use a different node to control the turtle using keyboard arrow keys.
+
+![](/imgs/3-4.png)
+![](/imgs/3-5.png)
