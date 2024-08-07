@@ -9,8 +9,6 @@
 
 3- Create virtual machine from new tab
 
-![](/imgs/step1.png)
-
 4- Import Ubuntu
 
 ![](/imgs/step4.png)
